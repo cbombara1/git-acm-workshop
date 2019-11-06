@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 float math_func(float x){
-    return 0;
+    return x*x*x;
 }
 
 
